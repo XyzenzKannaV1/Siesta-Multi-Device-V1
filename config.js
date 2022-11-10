@@ -46,7 +46,7 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283112831554'
-global.nomorown = '6283866366437'
+global.nomorown = '6288980746663'
 global.namebot = 'SiestaBotzz'
 global.nameown = 'Kanna Chan'
 
@@ -57,10 +57,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283866366437', 'Kanna Chan', true],
-  ['6283866366437', 'Kanna Chan', true],
-  ['6283866366437', 'Kanna Chan', true],
-  ['6283866366437', 'Kanna Chan', true] //Ganti jd nomormu sama Namamu
+  ['6288980746663', 'Kanna Chan', true],
+  ['6288980746663', 'Kanna Chan', true],
+  ['6288980746663', 'Kanna Chan', true],
+  ['6288980746663', 'Kanna Chan', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
